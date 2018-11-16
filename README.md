@@ -18,7 +18,7 @@ first of all set up your environment with
 
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force
-.\vcvarsall.ps1
+.\vcvarsall17.ps1
 ```
 
 now you can build with
