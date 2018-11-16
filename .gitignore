@@ -1,0 +1,9 @@
+*.swp
+*.appx
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.winmd
+mapping.txt
+AppxManifest.xml
