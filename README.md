@@ -35,6 +35,8 @@ signature
 right click the appx -> properties -> digital signatures, select the
 one signature, click details, view certificate, install certificate
 
+![](https://i.imgur.com/Y27r65n.png)
+
 # Adding files and assets
 open build.ps1, find the part where it creates the mapping.txt filelist:
 
